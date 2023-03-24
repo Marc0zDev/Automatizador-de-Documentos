@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeradorVersão3", "GeradorVersão3.csproj", "{0B5C5EDF-F9E9-472B-9D12-8CAA671F41F7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador Gerador", "Instalador\Instalador Gerador\Instalador Gerador.vdproj", "{3CB0E0C2-CC67-4EB9-8FBC-2E13F9795A15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B5C5EDF-F9E9-472B-9D12-8CAA671F41F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5C5EDF-F9E9-472B-9D12-8CAA671F41F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5C5EDF-F9E9-472B-9D12-8CAA671F41F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5C5EDF-F9E9-472B-9D12-8CAA671F41F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CB0E0C2-CC67-4EB9-8FBC-2E13F9795A15}.Debug|Any CPU.ActiveCfg = Debug
+		{3CB0E0C2-CC67-4EB9-8FBC-2E13F9795A15}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE4DDA38-224D-43F8-A4A8-E11FCFD0F4E8}
+	EndGlobalSection
+EndGlobal
